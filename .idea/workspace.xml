@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="332be5e6-2ec0-4570-8b75-07ad70eb8f31" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../Tp_P.O.O/src/Clases/Ej1ClasePlanetaYClase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tp_P.O.O/src/Clases/Persona.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tp_P.O.O/src/Clases/Planeta.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Tp_P.O.O/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Tp_P.O.O/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tp_P.O.O/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tp_P.O.O/src/Clases/Ej1ClasePlanetaYClase.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,21 +25,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../Tp_P.O.O" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "MatiasGobbi"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;MatiasGobbi&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/MatiasGobbi/Tp_P.O.O..git",
-    "accountId": "f382fd1a-7480-43ce-b2ea-43174a32ef32"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/MatiasGobbi/Tp_P.O.O..git&quot;,
+    &quot;accountId&quot;: &quot;f382fd1a-7480-43ce-b2ea-43174a32ef32&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="2p8wiDKWWoj5ka1sgYaCb2oZF6D" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -48,7 +49,10 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Ej1ClasePlanetaYClase.executor": "Run",
+    "Application.Persona.executor": "Run",
+    "Application.Planeta.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true"
   }
